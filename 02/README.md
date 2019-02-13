@@ -15,7 +15,7 @@ The `about` page should extend on the intro content found on the `index` page, p
 * All pages must use, at the bare minimum, the following elements: `header`, `nav`, `main`, `p`, `a`, and `img`.
 * The `title` and the `meta name="description"` elements must observe the SEO best practices discussed in class during week 3 (see the GitHub repo), and must differ for each of the three pages.
 * Your HTML must be valid, per the [w3c-validation](https://atom.io/packages/w3c-validation) Atom package. You may also validate at [http://validator.w3.org/#validate_by_input](http://validator.w3.org/#validate_by_input).
-* This project must be live at [https://cims.nyu.edu/`~netID`/spring-2019/intro-to-web-design/assignment-2](https://cims.nyu.edu/~netID/spring-2019/intro-to-web-design/assignment-2), where `netID` is your NYU netID.
+* This project must be live at [https://i6.cims.nyu.edu/`~netID`/spring-2019/intro-to-web-design/assignment-2](https://i6.cims.nyu.edu/~netID/spring-2019/intro-to-web-design/assignment-2), where `netID` is your NYU netID.
 * Your image must reside in a folder called `img` and must be 1MB or smaller.
 * Folders and files must use lowercase, combined with kebab case. For example, `do-this` or `do-this.html`. Further, no spaces in folder or file names (`not this`); no camel case (`notThis`); and, no snake case (`not_this`).
 
