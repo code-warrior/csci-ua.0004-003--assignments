@@ -37,4 +37,5 @@ See [NYU Classes](classes.nyu.edu).
 
 ## Submission
 1. Create a `.zip` of your project, naming it `netID--assignment-2.zip`.
-2. Submit via NYU Classes.
+2. In NYU Classes’ submission text box, add the URL to your site, per the **Rules** instructions above.
+3. Submit via NYU Classes.
