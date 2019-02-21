@@ -38,7 +38,7 @@ This assignment is worth 10 points. It’s graded as follows:
 | *No more than two fonts included*                           | `1`    |
 
 ## Due Date
-See [NYU Classes](classes.nyu.edu).
+See [NYU Classes](https://newclasses.nyu.edu/).
 
 ## Submission
 1. The folder `assignment-3` must be placed in the `intro-to-web-design` folder you created in your i6 account for the previous assignment. You may use the `scp` command or [FileZilla](https://github.com/code-warrior/filezilla-and-i6) to copy your folders and files to your i6 account.
