@@ -9,7 +9,7 @@ This assignment requires that you revisit the first six assignments and make eac
 ```html
 <meta name="viewport" content="width=device-width,initial-scale=1">
 ```
-2. Ensure your CSS is added using the `link` tag with the `media` attribute. For example:
+2. Ensure your one or more CSS files is added using the `link` tag with the `media` attribute. For example:
 ```html
 <link rel="stylesheet" href="css/phone.css" media="(max-width: 400px)">
 ```
@@ -24,11 +24,11 @@ This assignment requires that you revisit the first six assignments and make eac
 ## Grading
 This assignment is worth 10 points and is graded as follows:
 
-| Item                                                     | Points |
-|----------------------------------------------------------|:------:|
-| *Responsive CSS implemented according to rules 1 and 2*  | `5`    |
-| *Responsive CSS experience in all assignments*           | `3`    |
-| *Scrollbars visible in any page*                         | `2`    |
+| Item                                                    | Points |
+| ------------------------------------------------------- | :----: |
+| *Responsive CSS implemented according to rules 1 and 2* |  `5`   |
+| *Responsive CSS experience in all assignments*          |  `3`   |
+| *Scrollbars are not visible in any page*                |  `2`   |
 
 ---
 
