@@ -9,7 +9,7 @@ This assignment requires that you revisit the first six assignments and make eac
 ```html
 <meta name="viewport" content="width=device-width,initial-scale=1">
 ```
-2. Ensure your one or more CSS files is added using the `link` tag with the `media` attribute. For example:
+2. Ensure all your CSS files are added using the `link` tag with the `media` attribute. For example:
 ```html
 <link rel="stylesheet" href="css/phone.css" media="(max-width: 400px)">
 ```
